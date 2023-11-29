@@ -1,5 +1,5 @@
 
-# Meu jogo Par ou Impar
+# Jogando Par ou Impar
 
 Neste jogo nostalgico cada jogador escolhe um número e escolhe também se o resultado da soma dos dois números será "Par ou Impar".
 
